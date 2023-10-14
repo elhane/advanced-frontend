@@ -1,1 +1,1 @@
-# advanced-frontend
+# advanced-frontend course
